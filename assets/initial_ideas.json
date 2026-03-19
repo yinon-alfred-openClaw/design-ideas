@@ -1,0 +1,152 @@
+[
+  {
+    "title": "No Shelf Control",
+    "niche": "Bookish Humor",
+    "description": "Clever pun on self-control for readers who can't stop buying books. High memorability.",
+    "audience": "book lovers, introverts, TBR hoarders, Redbubble shoppers",
+    "research": "Wordplay designs sell consistently on Redbubble. Puns increase recall. High search volume for 'book humor' and 'shelf control'",
+    "text_to_image_prompt": "Minimalist text design: 'No Shelf Control' in bold, modern sans-serif font. Stacked colorful books subtly in background. Light cream or white background. Clean, readable design.",
+    "products": ["t-shirt", "sticker", "mug"],
+    "notes": "Consider pastel colored t-shirt for broader appeal"
+  },
+  {
+    "title": "This Anxiety is Chronic But This Book is Iconic",
+    "niche": "Mental Health + Books",
+    "description": "Mental health reference combined with book pun using rhyming text. Signals community membership.",
+    "audience": "anxious readers, BookTok community, mental health advocates, Gen Z and millennials",
+    "research": "Mental health merch + book humor is underserved. Rhyming text increases memorability and shareability. Rhyme helps with social media circulation.",
+    "text_to_image_prompt": "Modern sans-serif typography design. 'This Anxiety is Chronic But This Book is Iconic' in contrasting colors (pink text on light background suggested). Subtle book or spiral motifs in corners. High contrast for readability.",
+    "products": ["t-shirt", "sticker"],
+    "notes": "Pink or teal color scheme resonates with target audience. Highly shareable on TikTok"
+  },
+  {
+    "title": "Read Between The Wines",
+    "niche": "Bookish Humor",
+    "description": "Literary pun combining reading with wine. Appeals to adult readers and lifestyle audience.",
+    "audience": "book lovers, wine drinkers, millennials, coffee shop crowd",
+    "research": "Lifestyle merch combining books + beverages performs well. Wine culture is strong on Instagram/Pinterest. Creates aspirational aesthetic.",
+    "text_to_image_prompt": "Cozy illustration style: wine glass with book illustration inside or beside it. 'Read Between The Wines' text in flowing serif font. Warm colors (burgundy, cream, warm brown). Watercolor style acceptable.",
+    "products": ["t-shirt", "mug", "sticker"],
+    "notes": "Perfect for gift-giving. Appeals to both book lovers and wine enthusiasts"
+  },
+  {
+    "title": "Born to Read, Forced to Work",
+    "niche": "Bookish Humor",
+    "description": "Sarcastic take on reality for readers. Expresses the struggle between passion and obligation.",
+    "audience": "book lovers, office workers, anyone who'd rather be reading, rebellious readers",
+    "research": "Sarcastic designs perform well across niches. Existential humor resonates with millennial/Gen Z audience. Already appears on Redbubble successfully.",
+    "text_to_image_prompt": "Bold text design: 'Born to Read, Forced to Work'. Typography-heavy with no or minimal illustration. Can use stacked books subtly. Black text on colored background (olive, sage green, or cream) performs well.",
+    "products": ["t-shirt", "hoodie", "sticker"],
+    "notes": "Strong seller. Consider multiple color variations"
+  },
+  {
+    "title": "Reading Because Murder is Wrong",
+    "niche": "Dark Humor + Books",
+    "description": "Dark humor implying books are escape from darker impulses. Witty and sarcastic.",
+    "audience": "dark humor enthusiasts, readers, true crime fans, people with twisted sense of humor",
+    "research": "Dark humor merch has strong niche following. Book lovers with sarcastic vibe buy for social signaling. Conversation starter.",
+    "text_to_image_prompt": "Minimalist text design: 'Reading Because Murder is Wrong' in clean sans-serif. Optional: silhouette of person reading with subtle dark imagery (subtle, not literal). White or light text on black or dark colored shirt.",
+    "products": ["t-shirt", "sticker"],
+    "notes": "Appeals to readers who identify with dark humor. Good for edgy audience segments"
+  },
+  {
+    "title": "Enemies to Lovers Sticker",
+    "niche": "Fandom In-Jokes - Romance Tropes",
+    "description": "Romance trope reference targeting readers familiar with romance novel archetypes. Community signaling.",
+    "audience": "romance novel readers, BookTok, new adult fiction fans, enemies-to-lovers enthusiasts",
+    "research": "Trope-specific merch has dedicated audience. BookTok drives romance merch market. Inside jokes = high community loyalty.",
+    "text_to_image_prompt": "Illustrated sticker style (2-3 inches): 'Enemies to Lovers' text with two illustrated characters (stylized, not realistic). Color palette: pinks, purples, warm tones. Round or heart-shaped sticker format.",
+    "products": ["sticker", "t-shirt"],
+    "notes": "High potential on BookTok. Fans actively seek trope-specific merch"
+  },
+  {
+    "title": "Slow Burn Bookish Trope",
+    "niche": "Fandom In-Jokes - Romance Tropes",
+    "description": "Reference to slow-burn romance stories. Signals deep knowledge of romance genre.",
+    "audience": "romance readers, BookTok, slow-burn romance enthusiasts, Patient readers",
+    "research": "Trope-specific merch performs well. 'Slow burn' has massive following on BookTok. High engagement potential.",
+    "text_to_image_prompt": "Aesthetic sticker design: 'Slow Burn' with subtle flame or gradient effect. Warm color palette (oranges, reds, golds). Clean, modern typography. Size: 2.5-3 inches.",
+    "products": ["sticker", "t-shirt", "bookmark"],
+    "notes": "Pairs well with other trope stickers in collections"
+  },
+  {
+    "title": "Morally Grey is My Favorite Color",
+    "niche": "Dark Romance",
+    "description": "Dark romance reference. Appeals to readers who love morally complex characters and antiheroes.",
+    "audience": "dark romance readers, BookTok, antihero enthusiasts, mature readers",
+    "research": "Dark romance is fastest-growing subgenre. 'Morally grey' is trending phrase on BookTok. High engagement and repeat purchases.",
+    "text_to_image_prompt": "Modern, edgy design: 'Morally Grey is My Favorite Color' with grayscale color blocking or ombre effect. Black, white, and grey tones with accent color (silver or dark purple). Contemporary typography.",
+    "products": ["t-shirt", "sticker", "hoodie"],
+    "notes": "Very strong market. Multiple color versions would sell"
+  },
+  {
+    "title": "I'd Rather Be Reading",
+    "niche": "Bookish Humor",
+    "description": "Straightforward statement of preference. Appeals to introverts and anti-social readers.",
+    "audience": "introverts, book lovers, antisocial readers, people preferring books to people",
+    "research": "Evergreen design that resonates across book lover demographics. Simple, classic approach still works. Perfect for gifts.",
+    "text_to_image_prompt": "Clean text design: 'I'd Rather Be Reading' in elegant serif font. Add minimal illustration (open book, reading figure silhouette, or bookmark). Warm or cool color palette both work.",
+    "products": ["t-shirt", "sticker", "mug"],
+    "notes": "Gateway design for new merch buyers. Safe but effective"
+  },
+  {
+    "title": "Oops I Bought Another Book",
+    "niche": "Bookish Humor",
+    "description": "Relatable guilt humor for readers who compulsively buy books. Self-aware and funny.",
+    "audience": "book lovers, TBR hoarders, compulsive book buyers, readers with book guilt",
+    "research": "Highly relatable to target audience. Funny because it's true. Popular on Instagram and Pinterest. Guilt humor performs well.",
+    "text_to_image_prompt": "Hand-lettered or casual typography style: 'Oops I Bought Another Book' with illustration of surprised face or falling books. Light, humorous tone. Pastel colors or warm palette.",
+    "products": ["t-shirt", "sticker", "tote bag"],
+    "notes": "Popular gift for book lovers. Tote bag version performs well in bookstores"
+  },
+  {
+    "title": "Easily Distracted by Books and Cats",
+    "niche": "Relatable Problems",
+    "description": "Combines two niche interests: books and cats. Community signaling for cat-loving readers.",
+    "audience": "cat lovers, book lovers, cat-and-book community, millennials and Gen Z",
+    "research": "Niche combining two popular interests (books + cats) has dedicated following. Cat-loving readers are active merch buyers. High overlap audience.",
+    "text_to_image_prompt": "Cute, approachable design: Text 'Easily Distracted by Books and Cats' with cute cat illustration reading or surrounded by books. Warm, cozy colors. Watercolor or illustration style.",
+    "products": ["t-shirt", "sticker", "hoodie"],
+    "notes": "Strong gift potential. Cat + book combination is proven seller"
+  },
+  {
+    "title": "BookTok Made Me Buy It",
+    "niche": "Fandom In-Jokes - BookTok",
+    "description": "Meta reference to BookTok influence on purchasing behavior. Self-aware and relatable.",
+    "audience": "BookTok viewers, Gen Z readers, social media-aware readers, TikTok users",
+    "research": "BookTok is driving massive merch sales. Meta references about TikTok influence perform well. High shareability on TikTok itself.",
+    "text_to_image_prompt": "Modern, TikTok-aesthetic design: 'BookTok Made Me Buy It' in trendy font with TikTok color accents (black, bright colors). Could include TikTok logo-inspired elements. Fun, youthful vibe.",
+    "products": ["t-shirt", "sticker"],
+    "notes": "High viral potential on TikTok. Might date quickly, but strong current relevance"
+  },
+  {
+    "title": "My TBR Pile is Calling and I Must Go",
+    "niche": "Relatable Problems",
+    "description": "Reference to overwhelming TBR (To Be Read) pile. Relatable procrastination humor.",
+    "audience": "readers with large TBR piles, bibliophiles, book hoarders, self-aware readers",
+    "research": "TBR pile anxiety is universal among readers. Humorous take on relatable problem performs well. Meme-adjacent format.",
+    "text_to_image_prompt": "Playful design: 'My TBR Pile is Calling and I Must Go' inspired by 'The Call of the Wild' structure. Illustration of stacked books looking intimidating/calling to person. Humorous, slightly exaggerated style.",
+    "products": ["t-shirt", "sticker"],
+    "notes": "Highly relatable. Good conversation starter among book communities"
+  },
+  {
+    "title": "Dark Humor: What Doesn't Kill You Gives You a Dark Sense of Humor",
+    "niche": "Dark Humor + Mental Health",
+    "description": "Mental health dark humor. Resonates with people using humor as coping mechanism.",
+    "audience": "dark humor enthusiasts, mentally ill readers, therapy community, people who cope through humor",
+    "research": "Mental health dark humor is thriving niche. Coping through dark humor has normalized. High engagement with trauma-informed communities.",
+    "text_to_image_prompt": "Minimal text design: 'What Doesn't Kill You Gives You Unhealthy Coping Mechanisms and a Dark Sense of Humor'. Typography-heavy. Black text on colored background (charcoal heather suggested). No illustration needed.",
+    "products": ["t-shirt", "sticker"],
+    "notes": "Resonates deeply with target audience. Conversation starter in mental health spaces"
+  },
+  {
+    "title": "Chapter Count: Just One More",
+    "niche": "Bookish Humor",
+    "description": "Humor about never being able to stop at just one chapter. Relatable to chronic readers.",
+    "audience": "book lovers, late-night readers, 'just one more chapter' people, sleep-deprived readers",
+    "research": "Very relatable scenario for readers. 'Just one more chapter' is universal book lover experience. Time-based humor resonates.",
+    "text_to_image_prompt": "Design with illustration: Sleepy reader with text 'Just One More Chapter'. Include clock showing late time (3 AM). Tired but determined expression. Cozy reading nook background.",
+    "products": ["t-shirt", "sticker", "mug"],
+    "notes": "Perfect for night owls and readers who sacrifice sleep for books"
+  }
+]
